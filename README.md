@@ -1,2 +1,8 @@
-# Match-the-Panels
-A GUI Game in python in which you have to match the panels, to win
+   _____          __         .__      ___________.__             ___________.__.__                 
+  /     \ _____ _/  |_  ____ |  |__   \__    ___/|  |__   ____   \__    ___/|__|  |   ____   ______
+ /  \ /  \\__  \\   __\/ ___\|  |  \    |    |   |  |  \_/ __ \    |    |   |  |  | _/ __ \ /  ___/
+/    Y    \/ __ \|  | \  \___|   Y  \   |    |   |   Y  \  ___/    |    |   |  |  |_\  ___/ \___ \ 
+\____|__  (____  /__|  \___  >___|  /   |____|   |___|  /\___  >   |____|   |__|____/\___  >____  >
+        \/     \/          \/     \/                  \/     \/                          \/     \/ 
+
+Download all the files in a folder and run the main file (Python Gui Game.py)
