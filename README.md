@@ -26,5 +26,5 @@ Demo
 You can view a demonstration of the gameplay here: []
 
 Image:- 
-[]
-[]
+![Alt Text](filename)
+![Alt Text](filename)
