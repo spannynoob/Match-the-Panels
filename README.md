@@ -19,12 +19,12 @@ The inspiration came from the classic "Concentration" or "Memory" card game. We 
 
 How to Run:-
 1. Ensure you have Python installed.
-2. Download the Python_Gui_Game.exe file provided.
-3. Double-click the file to launch the game directly without needing a Python environment.
+2. Download the files provided.
+3. Double-click the Python_Gui_Game file to launch the game directly without needing a Python environment.
 
 Demo
 You can view a demonstration of the gameplay here: []
 
 Image:- 
-![Alt Text](filename)
-![Alt Text](filename)
+![Alt Text](4e12384e-7ca1-47d4-9a7e-f11da44687dc.jpeg)
+![Alt Text](screenshot-1782148420010-1.jpg)
